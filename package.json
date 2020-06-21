@@ -9,6 +9,9 @@
   },
   "keywords": [],
   "author": "Dallin B Peacock",
+  "engines": {
+    "node": "12.16.1"
+  },
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^6.2.0",
